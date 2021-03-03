@@ -157,7 +157,7 @@ The goals / steps of this project are the following:
 
 #### The I run the 3 cells in this module, and the final output video is displayed as the following link:
 
-Here's a [link to my output video result](./test_vide_output/project_video.mp4)
+Here's a [link to my output video result](./test_video_output/project_video.mp4)
 
 ---
 
